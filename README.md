@@ -242,8 +242,8 @@ Please open a Pull Request or raise an Issue.
 ## 👨‍💻 Author
 
 **Zohaib Hassan**
-- GitHub: [@Zohaib1195](https://github.com/Zohaib1195)
-- Mentorship: [TrainWithShubham](https://www.trainwithshubham.com)
+- GitHub: [@ZohaibHassan](https://github.com/ZohaibHasan2280168)
+- Mentorship: [@TrainWithShubham](https://github.com/TrainWithShubham/)
 
 ---
 
